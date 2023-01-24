@@ -1,6 +1,6 @@
 # Using React Material UI
 > Source [youtube](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO)
-1. Typography
+1. Typography [Typography API](https://mui.com/material-ui/api/typography/) [Default Theme Info](https://mui.com/material-ui/customization/default-theme/)
 2. Button
 3. Button Group
 4. Toggle Button
